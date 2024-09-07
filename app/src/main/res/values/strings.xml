@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="home">Home</string>
+    <string name="guest">Guest</string>
+    <string name="add1">+1</string>
+    <string name="subtractone">-1</string>
+    <string name="addone">+1</string>
+    <string name="reset">RESET</string>
+    <string name="scoreboard">Score Board</string>
+</resources>
